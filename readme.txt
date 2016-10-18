@@ -1,3 +1,9 @@
+Changes for 10-17-16
+1. Accelerometer added.
+2. Moved hardware to accommodate on board, ensured feature parity with moves.
+3. Updated code to detect flips and display info on LED.
+4. Added frizzing diagram file.
+
 Changes for 10-15-16
 
 1. The design now works for the DS18B20 and not the TMP35. The DS18B20 is a digital sensor with increased accuracy. It does not have the issue where the readings vary widely on battery versus USB power to the board. Recommended purchase the waterproof version at this link: https://www.sparkfun.com/products/11050
